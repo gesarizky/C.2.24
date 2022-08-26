@@ -7,6 +7,16 @@
 *  Website : www.best-informatic.com                      *
 *                                                         *
 ***********************************************************/
+/*DI Tingkatkan kembali oleh
+/**********************************************************
+*  PEMROGRAMAN C++                                        *
+*                                                         *
+*  Author  : Gesa Rizky Nugraha                           *
+*  Email   : gesarizkynugraha@gmail.com                   *
+*                                                         *
+*  Website : karenabelajar.blogspotcom                    *
+*                                                         *
+***********************************************************/
 
 #include <iostream>
 #include <cstring>
